@@ -1,0 +1,9 @@
+:host {
+  flex: 9;
+  order: 2;
+  background-color: #F6F6F6;
+  box-shadow: 0 2px 10px 0 rgba(0,0,0,0.1);
+  /*--box-shadow-focus-ring-size: 0 0 0 6px var(--secondary-color-25p);*/
+  /*--box-shadow-focus-ring-small: 0 0 0 3px var(--secondary-color-25p);*/
+  /*--box-shadow-focus-ring-inside: inset 0 0 0 3px var(--secondary-color-25p);*/
+}
