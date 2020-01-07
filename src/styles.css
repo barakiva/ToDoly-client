@@ -7,3 +7,12 @@
 html, body {
   height: 100%;
 }
+
+
+:root {
+  /*--freshwater:#2A98FF;*/
+  --freshwater:#0C88FF;
+  --freshwater-light-shade: #2A98FF;
+  --freswater-text: #f6fafd;
+
+}

@@ -1,7 +1,8 @@
 nav {
-  background-color: #0f4c75;
+  background-color: var(--freshwater);
 }
 a {
-  color: #bbe1fa;
+  color: var(--freswater-text);
 
 }
+

@@ -12,13 +12,13 @@
   transition: all 0.3s ease 0s;
   background-color: azure;
 }
+.btn-circle > i {
+  color: var(--freshwater-light-shade);
+}
 .btn-circle:hover {
-  background-color: #2EE59D;
+  /*background-color: #EAF5FF;*/
   /*box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);*/
-  color: #fff;
+  background-color: #E8F4FB;
   transform: translateY(-5px);
 }
-.btn-circle > i {
-  /*text-align: center;*/
-  color: lightblue;
-}
+

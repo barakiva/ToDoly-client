@@ -1,0 +1,12 @@
+:host {
+  box-shadow: 0 6px 10px 0 rgba(0,0,0,0.14);
+  flex: 8;
+  order: 1;
+}
+#schedule-list-override a {
+  border-radius: 0;
+  background-color: var(--freshwater-light-shade);
+}
+#schedule-list-override * {
+  color: var(--freswater-text);
+}
