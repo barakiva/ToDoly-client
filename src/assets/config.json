@@ -1,0 +1,4 @@
+{
+  "fakeApi": "https://jsonplaceholder.typicode.com/todos",
+  "textFile": "assets/fake.txt"
+}
